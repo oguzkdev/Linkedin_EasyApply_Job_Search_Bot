@@ -1,0 +1,8 @@
+{
+  "email": "Linkedin E-mail Address",
+  "password": "Linkedin Password",
+  "keywords": "Job Title",
+  "location": "Location",
+  "driver_path": "Your geckodriver Path"
+
+}
